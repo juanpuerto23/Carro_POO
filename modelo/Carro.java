@@ -106,10 +106,9 @@ public class Carro
         }
     }
 
-    /* 
+    
     public String toString()
     {
         return "DATOS DEL CARRO: \nNum. Ruedas: " + numRuedas + "\nColor: " + color + "\nPosición: (" + posX + " , " + posY + " )" + "\nVelocidad: " + getVelocidad();
     }
-}*/
 }
